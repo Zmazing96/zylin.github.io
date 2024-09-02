@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Juin Yau Lim 
+title: ZiYu Lin 
 
 # Full name (for SEO)
-first_name: Juin Yau
-last_name: Lim 
+first_name: ZiYu
+last_name: Lin 
 
 # Status emoji
 status:
@@ -14,33 +14,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D, M.Eng, AMIChemE (he/him/his)
+role: Ph.D Candidate (she/her/hers)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Argonne National Laboratory
-    url: https://www.anl.gov/
+  - name: Kyung Hee University
+    url: https://www.khu.ac.kr/eng/user/main/view.do
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate sustainable practitioner that seeks solutions with modern approaches.
+bio: Life-long learner and enthusiastic to provide solutions to enhance environment quality.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Renewable Energy
-  - Process System Engineering
-  - Waste Management
-  - Wastewater Treatment
-  - Air Pollution Control
+  - Urban Drainage System.
+  - Water Pollution Analysis.
+  - Water Quality Prediction Model Development.
+  - Water Ecosystem Health Assessment.
+  - Biodiversity Analysis.
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Applied Environmental Science and Engineering
-      institution: Kyung Hee University (Global)
-      year: 2023
-    - course: M.Eng in Chemical Engineering & Environmental Engineering
-      institution: University of Nottingham
+      institution: Kyung Hee University (Global), KR
+      year: 2025 (expected)
+    - course: MSc. in Applied Environmental Science and Engineering
+      institution: Kyung Hee University (Global), KR
+      year: 2022
+    - course: BSc. in Environmental Engineering
+      institution: Shandong University of Science and Technology, CN
       year: 2018
 
 # Social/Academic Networking
@@ -50,13 +52,13 @@ social:
     link: '/#contact-me'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=6vKIwTgAAAAJ&hl=en#
+    link: https://scholar.google.com/citations?user=ns2pdL4AAAAJ&hl=zh-CN
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jylim8/
+    link: https://www.linkedin.com/in/zylin96/
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0002-2691-4439
+    link: https://orcid.org/0000-0002-2974-4201
   # Link to a PDF of your resume/CV.
   - icon: cv
     icon_pack: ai
@@ -67,31 +69,15 @@ highlight_name: true
 
 ---
 
-*beep-boop* 
+Hello 👋 This is **ZiYu Lin (林子愉)**. 
 
-Hello world 👋 This is **Juin Yau Lim (林俊耀)**. 
+I am ZiYu Lin, an environmental scientist with a deep passion for sustainable urban water management and ecosystem health. With a PhD in Applied Environmental Science & Engineering from Kyung Hee University, I specialize in optimizing urban drainage systems, analyzing water pollution, and assessing biodiversity. My work has involved high-impact projects and extensive research, particularly in developing water quality prediction models and promoting environmental sustainability. Fluent in multiple languages and proficient in programming, I am dedicated to bridging the gap between research and real-world environmental solutions.
 
-I am interested on providing sustainable solution to complex engineering problem with my substantial background in Chemical Engineering **(*M.Eng*)** and Environmental Engineering **(*PhD*)**. Devoted to bridge the gap between research and industry.
-
-You can find my [publications](./publication/), [recent post](./post/), and [one page résumé](/uploads/resume_s.pdf) in this webpage.
-
-If you have more time, feel free to read my [full CV](/uploads/resume.pdf)! 
-
-**Fun-fact:**
-1. Enjoy playing with numbers _aka_ **Data Analytics**.             📈
-2. Juggling around **AI**, **modeling**, and **optimization**.      🖥️
-3. **Polyglot**, proficient in multiple languages. Try me!          🗣️
-4. 100% **Cat** friendly                                            🐱
-
-**Daily Interest & Hobbies**
-- Web 3, Blockchain, Hiking, Squash, & Traveling 
+Feel free to look at my [publications](./publication/), [recent post](./post/), and my [full CV](/uploads/resume.pdf) in this webpage.
 
 **Summary:**
-Never the smartest mind in class but always the one not afraid of trying new things. 
+An. 
 
-Thanks for spending time to understand me! *Ciao*
-
-**"Now, Good Night. And If There's An Apocalypse, Good Luck!"** 
-by _Sheldon Cooper_ from [The Big Bang Theory](https://www.warnerbros.com/tv/big-bang-theory)
+Thanks for visiting my webpage
 
 {style="text-align: justify;"}

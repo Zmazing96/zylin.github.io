@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2024-03-24
+date: 2024-09-02
 type: landing
 
 sections:
@@ -68,28 +68,28 @@ sections:
       columns: '2'
       view: citation
 
-  - block: markdown
-    content:
-      title: Through My Eyes 
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  - #block: markdown
+    #content:
+    #  title: Through My Eyes 
+    #  subtitle: ''
+    #  text: |-
+    #    {{< gallery album="demo" >}}
+    #design:
+    #  columns: '1'
       
   - block: contact
     id: contact-me
     content:
       title: Contact
-      email: limj@anl.gov
+      email: ziyulin96@gmail.com
       address:
-        city: Illinois
+        city: Suwon
         postcode: '60439'
-        country: United States of America
+        country: South Korea
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '41.7183'
-        longitude: '-87.9789'  
+        latitude: '37.243183608381464'
+        longitude: '127.08011688090518'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
