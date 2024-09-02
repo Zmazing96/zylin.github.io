@@ -67,15 +67,6 @@ sections:
     design:
       columns: '2'
       view: citation
-
-  - #block: markdown
-    #content:
-    #  title: Through My Eyes 
-    #  subtitle: ''
-    #  text: |-
-    #    {{< gallery album="demo" >}}
-    #design:
-    #  columns: '1'
       
   - block: contact
     id: contact-me
