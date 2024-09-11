@@ -75,9 +75,6 @@ I am ZiYu Lin, an environmental scientist with a deep passion for sustainable ur
 
 Feel free to look at my [publications](./publication/), [recent post](./post/), and my [full CV](/uploads/resume.pdf) in this webpage.
 
-**Summary:**
-An. 
-
-Thanks for visiting my webpage
+Thanks for visiting my webpage!
 
 {style="text-align: justify;"}

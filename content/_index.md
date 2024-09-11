@@ -16,7 +16,7 @@ sections:
     id: featured
     content:
       title: Featured Publications
-      count: 2
+      count: 3
       filters:
         folders:
           - publication
@@ -55,6 +55,7 @@ sections:
 
   - block: collection
     content:
+      count: 5
       title: Recent Publications
       text: |-
         {{% callout note %}}
