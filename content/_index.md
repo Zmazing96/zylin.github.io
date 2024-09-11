@@ -55,8 +55,8 @@ sections:
 
   - block: collection
     content:
-      count: 5
       title: Recent Publications
+      count: 5
       text: |-
         {{% callout note %}}
         You can filter all publications by clicking [here](./publication/).

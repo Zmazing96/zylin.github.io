@@ -1,5 +1,5 @@
 ---
-title: Test
+title: On-site investigation of the nearby riverine with receiving effluent from Electronic Industry
 
 # Date published
 date: '2024-09-11T00:00:00Z'
