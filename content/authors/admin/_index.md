@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate (she/her/hers)
+role: Ph.D [Defended] (she/her/hers)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,7 +71,11 @@ highlight_name: true
 
 Hello 👋 This is **ZiYu Lin (林子愉)**. 
 
-I am ZiYu Lin, an environmental scientist with a deep passion for sustainable urban water management and ecosystem health. With a PhD in Applied Environmental Science & Engineering from Kyung Hee University, I specialize in optimizing urban drainage systems, analyzing water pollution, and assessing biodiversity. My work has involved high-impact projects and extensive research, particularly in developing water quality prediction models and promoting environmental sustainability. Fluent in multiple languages and proficient in programming, I am dedicated to bridging the gap between research and real-world environmental solutions.
+I am ZiYu Lin, an environmental scientist with a deep passion for sustainable urban water management and ecosystem health. 
+
+With a PhD in Applied Environmental Science & Engineering from Kyung Hee University, specialize in optimizing urban drainage systems, analyzing water pollution, and assessing biodiversity. My work has involved high-impact projects and extensive research, particularly in developing water quality prediction models and promoting environmental sustainability. 
+
+I am also fluent in multiple languages and proficient in programming, I am dedicated to bridging the gap between research and real-world environmental solutions.
 
 Feel free to look at my [publications](./publication/), [recent post](./post/), and my [full CV](/uploads/resume.pdf) in this webpage.
 
